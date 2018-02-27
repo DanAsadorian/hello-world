@@ -1,2 +1,5 @@
 # hello-world
-Start to CS50 Course
+
+Hi Everyone!
+
+DanAsadorian here. I am trying to learn about computer science and hope this goes well!
