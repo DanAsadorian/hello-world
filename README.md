@@ -2,4 +2,4 @@
 
 Hi Everyone!
 
-DanAsadorian here. I am trying to learn about computer science and hope this goes well!
+DanAsadorian here. I am trying to learn computer science -- hope this goes well!
